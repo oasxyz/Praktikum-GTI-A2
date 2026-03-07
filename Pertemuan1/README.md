@@ -19,11 +19,20 @@ Proyek ini dibuat untuk tujuan memenuhi penugasan praktikum GTI pada pertemuan 1
 
 
 ## SCREENSHOT PRAKTIKUM
-1. ![Primitive Drawing](primitive.png)
-2. ![Titik](titik.png)
-3. ![Garis](garis.png)
-4. ![Segitiga](segitiga.png)
-5. ![Persegi](persegi.png)
+**1. Primitive Drawing**  
+![Primitive Drawing](primitive.png)
+
+**2. Titik**  
+![Titik](titik.png)
+
+**3. Garis**  
+![Garis](garis.png)
+
+**4. Segitiga**  
+![Segitiga](segitiga.png)
+
+**5. Persegi**  
+![Persegi](persegi.png)
 
 
 ## SREENSHOT PENUGASAN PRAKTIKUM
