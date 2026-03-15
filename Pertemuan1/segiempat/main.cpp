@@ -4,7 +4,7 @@
 void SegiEmpat(void){
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0f,0.0f,0.0f);
-	glRectf(-0.18,0.18,0.18,-0.18);
+	glRectf(-0.18,0.10,0.18,-0.10);
 	glFlush();
 }
 
