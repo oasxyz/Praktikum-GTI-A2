@@ -5,7 +5,7 @@
 # LAB: A2
 
 
-Proyek ini dibuat untuk tujuan memenuhi penugasan praktikum GTI pada pertemuan 1, program ini menampilkan bentuk dasar di OpenGL menggunakan GLUT, di antaranya yaitu:
+Proyek ini dibuat untuk tujuan memenuhi penugasan praktikum GTI pada Pertemuan 1, program ini menampilkan bentuk dasar di OpenGL menggunakan GLUT, di antaranya yaitu:
 - Primitve Drawing
 - Titik
 - Garis
