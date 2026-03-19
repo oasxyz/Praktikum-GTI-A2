@@ -26,7 +26,7 @@ Pada program ini saya menerapkan 2 cara menggerakkan tangan, bisa manual dengan 
 - v/V = ujung jari
 - f/F = pangkal
 
-**3. Gerakkan menekuk atau Meluruskan Jari**
+**3. Gerakkan Menekuk atau Meluruskan Jari**
 - e/E = meluruskan atau menggerakkan ke kanan
 - q/Q = membengkokkan atau digerakkan ke kiri
 
