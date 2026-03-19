@@ -14,6 +14,7 @@ Pada program ini saya menerapkan 2 cara menggerakkan tangan, bisa manual dengan 
 - k/K = PEACE
 
 **PROYEKSI MANUAL**
+
 **1. Seleksi Jari**
 - 1 = ibu jari
 - 2 = jari telunjuk
