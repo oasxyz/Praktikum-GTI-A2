@@ -6,6 +6,7 @@
 Proyek ini dibuat untuk tujuan memenuhi penugasan praktikum GTI pada Pertemuan 3, program ini menampilkan bentuk proyeksi sederhana dari cara kerja tangan robot, diantaranya bisa menggerakkan lengan, bahu, telapak tangan dan juga jari pada OpenGL dengan menggunakan GLUT:
 
 Pada program ini saya menerapkan 2 cara menggerakkan tangan, bisa manual dengan memilih bagian mana yang digerakkan atau dengan menggunakkan preset pose yang sudah disediakan. Untuk cara manual sendiri, berikut merupakan beberapa keypad yang digunakan:
+
 **PRESET POSE TANGAN**
 1. IDLE = 0
 2. FINGER POINTING = p/P
