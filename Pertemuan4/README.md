@@ -24,6 +24,7 @@ Untuk praktik dari materi berupa kamera dan lightning adalah sebagai berikut:
 
 ## SCREENSHOT PROYEKSI KAMERA & LIGHTNING
 **1. Tampilan Kamera**
-![kamera3D](kamera.png)
+![kamera3D](kamera.png)  
+
 **2. Tampilan Lightning & Depth**
 ![Lightning](lightning.png)
